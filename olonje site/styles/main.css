@@ -17,6 +17,7 @@
     .navbar i {
         display: block;
         color: #FA4A0C;
+        margin: 2%;
     }
     .buttons {
         display: flex;
@@ -192,11 +193,12 @@
     #footer {
         display: flex;
         flex-wrap: wrap;
-        margin: 5%;
+        margin: 7%;
     }
     #footer img {
         width: 40%;
         margin: 0 30%;
+        margin-bottom: 7%;
     }
     #footer p {
         font-size: 12px;
